@@ -39,7 +39,7 @@
 <small>Support the <strong>author</strong> to create more educational materials</small> <br />  
 <a href = "https://www.paypal.me/asabeneh"><img src='./images/paypal_lg.png' alt='Paypal Logo' style="width:10%"/></a>
 </div>
-
+ 
 <div align="center">
   <h1> 30 Days Of JavaScript: Introduction</h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
